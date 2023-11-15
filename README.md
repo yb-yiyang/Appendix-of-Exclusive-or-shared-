@@ -1,6 +1,25 @@
 # Appendix-of-Exclusive-or-shared-
-This is Appendix of paper "Exclusive or shared? Copyright strategies for traditional Internet service providers and digital content platforms", contaning proof of several propositions.
+This is Appendix of paper "Exclusive or shared? Copyright strategies for traditional Internet service providers and digital content platforms", contaning table of notations used in the model and all proof of propositions.
 
+  Table A1.: Summary of Key Notations
+
+
+| Notation | Description | 
+| ----- | ----- | 
+| $v_I$ | Basic value utility of the TISP’S digital content service |
+| $v_C$ | Basic value utility of the IDCP’S digital content service |
+| $P_I$ | Subscription fee of the TISP |
+| $P_C$ | Subscription fee of the IDCP |
+| $s$ | Network access fee, which users need to pay to use digital content services |
+| $\theta_I$ | TISP’S quality, including features and interactions, emphasizes user experience |
+| $\theta_C$ | IDCP’S quality, including features and interactions, emphasizes user experience |
+| $c$ | Unit purchase cost of copyrighted content |
+| $t$ | Unit misfit cost |
+| $\varphi$ | Additional utility from copyright content |
+| $\epsilon$ | Discount coefficient of a shared copyright |
+| $\pi_I^k$ | Profit of the TISP when the copyright content offering strategy is k |
+| $\pi_C^k$ | Profit of the IDCP when the copyright content offering strategy is k |
+| $k$ | k∈{NN,NB,BN,BB} |
 
 Proof of Proposition 4.1
 
