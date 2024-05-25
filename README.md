@@ -13,6 +13,8 @@ This is Appendix of paper "Exclusive or shared? Copyright strategies for traditi
 | $s$ | Network access fee, which users need to pay to use digital content services |
 | $\theta_I$ | TISP’S quality, including features and interactions, emphasizes user experience |
 | $\theta_C$ | IDCP’S quality, including features and interactions, emphasizes user experience |
+| $\gamma_I$ | Intra-group network externality of the TISP |
+| $\gamma_C$ | Intra-group network externality of the IDCP |
 | $c$ | Unit purchase cost of copyrighted content |
 | $t$ | Unit misfit cost |
 | $\varphi$ | Additional utility from copyright content |
@@ -49,7 +51,7 @@ According to a series of conditions for parameters, we set the parameter of $\va
 
 Proof of Proposition 4.3
 
-In Case NN, with the first condition, $\frac{\partial p_{i}^{NN\ast}}{\partial\theta_{i}}= v_{i}>0$, $\frac{\partial\pi_{i}^{NN\ast}}{\partial\theta_{i}}=\frac{2 v_{i}p_{i}^{NN}}{3(2t-\gamma_I-\gamma_C)}$, when $2t-\gamma_I-\gamma_C>0$, we can get $\frac{\partial\pi_{i}^{NN\ast}}{\partial\theta_{i}}>0$.
+In Case NN, with the first condition, $\frac{\partial p_{i}^{NN\ast}}{\partial\gamma_{i}}= -1<0$, $\frac{\partial\pi_{i}^{NN\ast}}{\partial\gamma_{i}}=\frac{2 v_{i}p_{i}^{NN}}{3(2t-\gamma_I-\gamma_C)}$, when $2t-\gamma_I-\gamma_C>0$, we can get $\frac{\partial\pi_{i}^{NN\ast}}{\partial\theta_{i}}>0$.
 
 In Case BN or Case NB, $\frac{\partial p_{i}^{BN\ast}}{\partial\theta_{i}}= v_{i}>0$, $\frac{\partial\pi_{i}^{BN\ast}}{\partial\theta_{i}}=\frac{2 v_{i}p_{i}^{BN}}{3(2t-\gamma_I-\gamma_C)}$, when $2t-\gamma_I-\gamma_C>0$, we can get $\frac{\partial\pi_{i}^{BN\ast}}{\partial\theta_{i}}>0$.
 
