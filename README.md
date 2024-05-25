@@ -51,16 +51,6 @@ According to a series of conditions for parameters, we set the parameter of $\va
 
 Proof of Proposition 4.3
 
-In Case NN, with the first condition, $\frac{\partial p_{i}^{NN\ast}}{\partial\gamma_{i}}= \frac{-1}{3}<0$, $\frac{\partial\pi_{i}^{NN\ast}}{\partial\gamma_{i}}=\frac{-2 p_{i}^{NN}}{3(2t-\gamma_I-\gamma_C)}+\frac{{p_{i}^{NN}}^2}{9(2t-\gamma_I-\gamma_C)^2}$, when $2t-\gamma_I-\gamma_C>0$, we can get $\frac{\partial\pi_{i}^{NN\ast}}{\partial\gamma_{i}}<0$.
-
-In Case BN or Case NB, $\frac{\partial p_{i}^{BN\ast}}{\partial\gamma_{i}}= \frac{-1}{3}<0$, $\frac{\partial\pi_{i}^{BN\ast}}{\partial\gamma_{i}}=\frac{-2 p_{i}^{BN}}{3(2t-\gamma_I-\gamma_C)}+\frac{{p_{i}^{BN}}^2}{9(2t-\gamma_I-\gamma_C)^2}$, when $2t-\gamma_I-\gamma_C>0$, we can get $\frac{\partial\pi_{i}^{BN\ast}}{\partial\gamma_{i}}<0$.
-
-In Case BB, $\frac{\partial p_{i}^{BB\ast}}{\partial\gamma_{i}}= \frac{-1}{3}<0$, $\frac{\partial\pi_{i}^{BB\ast}}{\partial\gamma_{i}}=\frac{-2 p_{i}^{BB}}{3(2t-\gamma_I-\gamma_C)}+\frac{{p_{i}^{BB}}^2}{9(2t-\gamma_I-\gamma_C)^2}$, when $2t-\gamma_I-\gamma_C>0$, we can get $\frac{\partial\pi_{i}^{BB\ast}}{\partial\gamma_{i}}<0$.
-
-As is shown above, the intro-group network externality has a negative impact on prices and profits of firms in four equilibrium configurations.
-
-Proof of Proposition 4.4
-
 With the first condition, $\frac{\partial\pi_{i}^{k\ast}}{\partial\gamma_{i}}=-\frac{2p_{i}^{k\ast}}{9(2t-\gamma_I-\gamma_C)}+\frac{{p_{i}^{k\ast}}^2}{9(2t-\gamma_I-\gamma_C)^2}<0$, $k\in\{NN, BN, NB, BB\}$.
 Therefore, intro-group network externality has a negative impact on profits of the TISP and IDCP.
 
